@@ -1,0 +1,10 @@
+# Author John Loughnane
+# Find out the length of a string
+
+#Please enter a string:Hello
+# The length of Hello is 5 characters
+
+string = len(input("Enter a string : "))
+print(string)
+
+
